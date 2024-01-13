@@ -1,6 +1,6 @@
 module github.com/leonheldattoradex/torizoncli
 
-go 1.21.6
+go 1.21
 
 require (
 	github.com/commontorizon/torizon-openapi-go v0.0.1
