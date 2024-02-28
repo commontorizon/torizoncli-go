@@ -3,7 +3,7 @@ module github.com/leonheldattoradex/torizoncli
 go 1.21
 
 require (
-	github.com/commontorizon/torizon-openapi-go v0.0.1
+	github.com/commontorizon/torizon-openapi-go v0.0.2
 	github.com/urfave/cli/v2 v2.27.1
 )
 
